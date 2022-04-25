@@ -1,6 +1,6 @@
 {
   "name": "yohsukes-semantic-released",
-  "version": "0.0.0-development",
+  "version": "1.2.0",
   "description": "Yohsuke's test project using semantic-release",
   "main": "index.js",
   "scripts": {

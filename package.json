@@ -1,0 +1,22 @@
+{
+  "name": "yohsukes-semantic-released",
+  "version": "1.0.0",
+  "description": "Yohsuke's test project using semantic-release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohsuke-kurita/yohsukes-semantic-released.git"
+  },
+  "keywords": [
+    "semantic-release"
+  ],
+  "author": "Yohsuke Kurita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yohsuke-kurita/yohsukes-semantic-released/issues"
+  },
+  "homepage": "https://github.com/yohsuke-kurita/yohsukes-semantic-released#readme"
+}

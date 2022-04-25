@@ -1,14 +1,15 @@
 {
   "name": "yohsukes-semantic-released",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "Yohsuke's test project using semantic-release",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yohsuke-kurita/yohsukes-semantic-released.git"
+    "url": "https://github.com/yohsuke-kurita/yohsukes-semantic-released.git"
   },
   "keywords": [
     "semantic-release"
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/yohsuke-kurita/yohsukes-semantic-released/issues"
   },
-  "homepage": "https://github.com/yohsuke-kurita/yohsukes-semantic-released#readme"
+  "homepage": "https://github.com/yohsuke-kurita/yohsukes-semantic-released#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  }
 }

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -24,7 +25,8 @@
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
     "cz-conventional-changelog": "^3.3.0",
-    "semantic-release": "^19.0.2"
+    "semantic-release": "^19.0.2",
+    "husky": "^7.0.0"
   },
   "config": {
     "commitizen": {

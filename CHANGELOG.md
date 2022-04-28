@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/yohsuke-kurita/yohsukes-semantic-released/compare/v2.0.1...v2.1.0) (2022-04-28)
+
+
+### Features
+
+* add the 4th message ([c2f51aa](https://github.com/yohsuke-kurita/yohsukes-semantic-released/commit/c2f51aa7c7f75fe2cdb44dabc59b94dd65a5b88b))
+
 ## [2.0.1](https://github.com/yohsuke-kurita/yohsukes-semantic-released/compare/v2.0.0...v2.0.1) (2022-04-28)
 
 

@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 'lts/*'
       - name: Install dependencies
-        run: npm ci
+        run: npm cia --omit=dev --ignore-scripts
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

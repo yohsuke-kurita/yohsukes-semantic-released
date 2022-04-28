@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/yohsuke-kurita/yohsukes-semantic-released/compare/v2.0.0...v2.0.1) (2022-04-28)
+
+
+### Bug Fixes
+
+* change 3 to 3rd in the 3rd message ([4cf1e98](https://github.com/yohsuke-kurita/yohsukes-semantic-released/commit/4cf1e98b1fcf4c7be3c0e435337d25badb556e85))
+
 # [2.0.0](https://github.com/yohsuke-kurita/yohsukes-semantic-released/compare/v1.2.0...v2.0.0) (2022-04-28)
 
 

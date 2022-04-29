@@ -1,3 +1,17 @@
+# [2.2.0](https://github.com/yohsuke-kurita/yohsukes-semantic-released/compare/v2.1.0...v2.2.0) (2022-04-29)
+
+
+### Features
+
+* add the 5th message ([c21448a](https://github.com/yohsuke-kurita/yohsukes-semantic-released/commit/c21448ab4a642d571417357e0a7d8abccc946b1c))
+* **index,printMsg:** add the 6th message ([52fd647](https://github.com/yohsuke-kurita/yohsukes-semantic-released/commit/52fd647d1751ffd05c3349844f3ce10a8f7411f5))
+
+
+### Reverts
+
+* "ci: change release.yml not to use husky" ([e4d252a](https://github.com/yohsuke-kurita/yohsukes-semantic-released/commit/e4d252a7d6c0f0f0761fb229d48b6626580e28a3))
+* "ci(github): fix typo in release.yml" ([3b50e3b](https://github.com/yohsuke-kurita/yohsukes-semantic-released/commit/3b50e3b00b7219a999442ade1e79bd8224cef71f))
+
 # [2.2.0-beta.2](https://github.com/yohsuke-kurita/yohsukes-semantic-released/compare/v2.2.0-beta.1...v2.2.0-beta.2) (2022-04-29)
 
 
